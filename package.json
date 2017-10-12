@@ -1,0 +1,19 @@
+{
+  "name": "probuem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GTim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "mongodb": "^2.2.31",
+    "node-telegram-bot-api": "^0.28.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
